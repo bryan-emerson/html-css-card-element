@@ -3,13 +3,13 @@ body {
   font-family: sans-serif;
   font-size: 16px;
   width: 250px;
-  background-color: black;
+  background-color: lightyellow;
   align-content: center;
   position: relative;
 }
 
 html {
-  background-color: gray;
+  background-color: whitesmoke;
   align-content: center;
 }
 
@@ -40,9 +40,9 @@ img {
 }
 
 .card {
-  top: 50%;
-  left: 200%;
-  margin-top: 200px;
+  /* top: 10%; */
+  left: 250%;
+  margin-top: 100px;
   border: 5px solid black;
   position: absolute;
   /* position: relative; */
